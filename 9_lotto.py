@@ -2,7 +2,6 @@ import streamlit as st
 import random
 import datetime
 import sklearn
-import tensorflow
 
 st.title(':sparkles:로또 생성기:sparkles:')
 
